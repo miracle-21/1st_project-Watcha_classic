@@ -91,6 +91,9 @@ PROJECT : Watcha Classic
 <br>
 <br>
 
+## 🌟 회고록: 더 자세한 내용
+[첫 프로젝트 회고](https://velog.io/@miracle-21/%EC%B2%AB-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
+
 ## 🔖 Reference
 - 이 프로젝트는 [왓챠피디아](https://pedia.watcha.com/) 사이트를 참조하여 학습 목적으로 만들었습니다.
 - 실무수준의 프로젝트이지만 학습 용으로 만들었기 때문에 이 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
