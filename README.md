@@ -1,4 +1,4 @@
-# Watcha Classic (위코드 34기 1차 프로젝트)
+# Watcha Classic
 - 기존의 [왓챠피디아 사이트](https://pedia.watcha.com/ko-KR)는 영화를 비롯한 TV 프로그램, 책, 웹툰에 대한 정보를 조회, 평가, 검색 등의 기능이 구현된 SNS 백과사전 사이트입니다.
 - 저희 팀(왓챠챠챠)이 기획한 Watcha Classic은 SNS 기능을 활용한 클래식 영화 백과사전 사이트 왓챠클래식(Watcha Classic)입니다.
 <img width="860" alt="Screen Shot 2022-07-03 at 12 57 30 PM" src="https://user-images.githubusercontent.com/102043891/177023992-a4d897ca-cc20-44aa-ba27-2f427ce72707.png">
